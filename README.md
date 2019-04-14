@@ -15,7 +15,7 @@ In this case Passive RFID tags (which doesn't contain power supply of their own)
 Each tag contains a unique identification number stored in its memory. While coming in contact to the NFC signal it will send its unique number to the smartphone used.
 
 Here's an image of the RFID tags we are using.
-![alt text](https://www.cytron.io/image/cache/catalog/products/RFID-TAG-125-CH/RFID-TAG-125-CH-0-1-1-800x800.jpg)
+![Passive RFID Tag](https://www.cytron.io/image/cache/catalog/products/RFID-TAG-125-CH/RFID-TAG-125-CH-0-1-1-800x800.jpg)
 
 ## Aim
 The aim of this project is to create an app with the following capabilities.
