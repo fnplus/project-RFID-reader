@@ -18,7 +18,7 @@ Here's an image of the RFID tags we are using.
 ![Passive RFID Tag](https://www.cytron.io/image/cache/catalog/products/RFID-TAG-125-CH/RFID-TAG-125-CH-0-1-1-800x800.jpg)
 
 ## Aim
-The aim of this project is to create an app with the following capabilities.
-1.> Detect and retrieve the ID number from a RFID tag.
-2.> Match the ID with the database of Geek Information.
-3.> Display his/her name and mark her present in that event.
+The aim of this project is to create an app with the following capabilities:
+1. Detect and retrieve the ID number from a RFID tag.
+2. Match the ID with the database of Geek Information.
+3. Display his/her name and mark her present in that event.
